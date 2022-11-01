@@ -2,7 +2,7 @@
 A 2D video game made with OpenGL based on VVVVVV with Spelunky assets.
 
 ## Creators 
-- Pau Folch Gómez, artist.
+- Pau Folch Gómez, artist & programmer.
 - Bernat Güell Brocal, level designer & programmer.
 
 
