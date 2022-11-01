@@ -1,8 +1,9 @@
 # Vlunky
+A 2D video game made with OpenGL based on VVVVVV with Spelunky assets.
 
 ## Creators 
-- Pau Folch Gómez
-- Bernat Güell Brocal
+- Pau Folch Gómez, artist.
+- Bernat Güell Brocal, level designer & programmer.
 
 
 ## Functionalities implemented
